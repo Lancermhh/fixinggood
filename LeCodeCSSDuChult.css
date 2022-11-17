@@ -1,0 +1,223 @@
+/* Bonjour, voici un commentaire caché ! Je vais essayer de vous expliquer en détail mon code CSS ! :') */
+
+head {
+	font-family: 'Comic Sans MS', arial;
+}
+
+body {
+	background-color: black;
+	font-family: 'Comic Sans MS', arial;
+}
+
+/*Ici, j'importe la police d'écriture de la page : Le Comic Sans MS, importé par mes soins dans le code HTML. Également, je met la couleur de fond du site en noir.*/
+
+.PremierTitre {
+	color:white;
+	font-family: "Comic Sans MS", arial;
+	font-size: 3em;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+ 	border-color: white;
+}
+
+.DeuxiemeTitre {
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-style: italic;
+	text-align: center;
+}
+
+.PremierTexte {
+	color:white;
+	font-family: "Comic Sans MS", arial;
+	font-size: 1em;
+	text-align: center;
+}
+
+.PremierCommentaire {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+#Encadrement {
+	color: white;
+	font-family: "Comic Sans MS", arial;
+	font-size: 1em;
+	text-align: center;
+	border: 2px;
+	border-color: white;
+	border-style: solid;
+	margin-left: -35px;
+	margin-right: -35px;
+}
+
+img {
+	width: 100px;
+	height: 75px;
+}
+
+.PremierBouton {
+	text-align: center;
+}
+
+.DeuxiemeBouton {
+	text-align: center;
+}
+
+.WalterWhite {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align:center;
+	margin: auto;
+	display: flex;
+}
+
+.Tkt {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+.Description {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+.Ziak {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+.Haram {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align:center;
+	margin: auto;
+	display: flex;
+}
+
+.Interdit {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+.Louis {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align:center;
+	margin: auto;
+	display: flex;
+}
+
+.Dormir {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+.Chult {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align:center;
+	margin: auto;
+	display: flex;
+}
+
+.Passe {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;	
+}
+
+.Mari {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align:center;
+	margin: auto;
+	display: flex;
+}
+
+.Agony {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;	
+}
+
+.Gus {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align:center;
+	margin: auto;
+	display: flex;
+}
+
+.Gustavo {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
+
+.Haha1 {
+	color:white;
+	font-family: "Comic Sans MS", arial;
+	font-size: 3em;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+ 	border-color: white;
+}
+
+.Haha {
+	color:white;
+	font-family: "Comic Sans MS", arial;
+	font-size: 25px;
+	font-style: italic;
+	text-align: center;
+}
+
+.SansUndertale {
+	width: 200px;
+	height: 200px;
+	align-self: center;
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
+
+.Fin {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
+}
