@@ -57,6 +57,8 @@ body {
 	background-color: #696969;
 }
 
+/* Est-ce qu'on peut prendre deux secondes pour parler du fait que les commentaires cahcées c'est vraiment très très drôle ? */
+
 img {
 	width: 100px;
 	height: 75px;
@@ -87,6 +89,8 @@ img {
 	text-align: center;
 }
 
+/* Là c'est pas Valentin qui écrit les messages, c'est Louis. Et comme je comprend quasiment rien au CSS j'ai peur d'avoir pété un truc ou deux... désolé */
+
 .Description {
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
@@ -112,6 +116,8 @@ img {
 	display: flex;
 }
 
+/**/
+
 .Interdit {
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
@@ -119,6 +125,7 @@ img {
 	font-style: italic;
 	text-align: center;
 }
+/*                                                              ---/=======>  C'EST L'EPEE +1 !!!                                                             */
 
 .Louis {
 	width: 200px;
@@ -146,6 +153,8 @@ img {
 	display: flex;
 }
 
+/* CE QUI S'EST PASSE AU CHULT, RESTE AU CHULT. */
+
 .Passe {
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
@@ -171,6 +180,15 @@ img {
 	text-align: center;	
 }
 
+/*Mais, vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, 
+je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi.
+Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le 
+goût dela chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. 
+Alors ce n’est pas mon cas, comme je le disais là, puisque moi au contraire, j’ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, 
+je danse la vie… Je ne suis qu’amour ! Et finalement, quand beaucoup de gens aujourd’hui me disent : « Mais comment fais-tu pour avoir cette humanité ? » 
+Eh bien je leur réponds très simplement, je leur dis que c’est ce goût de l’amour, ce goût donc qui m’a poussé aujourd’hui à entreprendre une construction 
+mécanique, mais demain, qui sait, peut-être simplement à me mettre au service de la communauté, à faire le don, le don de soi…*/ 
+
 .Gus {
 	width: 200px;
 	height: 200px;
@@ -187,6 +205,8 @@ img {
 	font-style: italic;
 	text-align: center;
 }
+
+/* Note pour Valentin : Vérifie que j'ai rien cassé à ton code en écrivant les messages hein... on sait jamais... */
 
 .Haha1 {
 	color:white;
@@ -222,3 +242,5 @@ img {
 	font-style: italic;
 	text-align: center;
 }
+
+/*En vrai, la capacité de voler commeun oiseau c'est juste la capactié de tomber au sol et de le rater.*/
