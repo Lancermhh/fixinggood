@@ -54,7 +54,7 @@ body {
 	border-style: solid;
 	margin-left: -35px;
 	margin-right: -35px;
-	background-color: #696969;
+	background: linear-gradient (to bottom right : #696969, #000000;)
 }
 
 /* Est-ce qu'on peut prendre deux secondes pour parler du fait que les commentaires cahcées c'est vraiment très très drôle ? */
