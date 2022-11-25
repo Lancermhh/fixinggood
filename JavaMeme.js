@@ -39,16 +39,16 @@ function naviguerAuHasard() {
     window.location.href = memeAuHasard();
 }
 
-function rickroll() {
+function chult() {
     var lien = "https://juan-carlos.info/wp-content/uploads/sites/2/2021/11/Rick-Astley-Never-Gonna-Give-You-Up-Official-Music-Video.mp4?_=5" 
     return lien; 
 }
-function lienrick() {
-    window.location.href = rickroll();
+function lienchult() {
+    window.location.href = chult();
 }
 
 
 window.onload = function lien() {
-    document.getElementById("button2").addEventListener("click", lienrick);
+    document.getElementById("button2").addEventListener("click", lienchult);
     document.getElementById("button1").addEventListener("click", naviguerAuHasard);
 }
